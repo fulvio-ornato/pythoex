@@ -1,2 +1,2 @@
 # pythoex
-examples and snippet
+examples and snippet in python
